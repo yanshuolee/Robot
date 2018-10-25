@@ -1,0 +1,277 @@
+# depslib dependency file v1.0
+1492410563 source:c:\users\user\desktop\04160011_hw1\main.cpp
+	<string.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+
+1426320928 c:\users\user\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\user\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+924330300 source:c:\users\user\desktop\04160011_hw1\glm.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\user\desktop\04160011_hw1\glm.h
+	<GL/glut.h>
+
+924330300 source:c:\users\user\desktop\04160011_hw1\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 source:c:\users\ppll1_000\downloads\myglmsample\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\ppll1_000\downloads\myglmsample\glm.h
+	<GL/glut.h>
+
+1495357901 source:c:\users\ppll1_000\downloads\myglmsample\main.cpp
+	<string.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+
+1426324528 c:\users\ppll1_000\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426324528 c:\users\ppll1_000\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+924330300 source:c:\users\ppll1_000\desktop\04160275-robot project\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\ppll1_000\desktop\04160275-robot project\glm.h
+	<GL/glut.h>
+
+1496111271 source:c:\users\ppll1_000\desktop\04160275-robot project\main.cpp
+	<string.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+	<stdio.h>
+
+924330300 source:c:\users\user\desktop\04160275-robot project\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\user\desktop\04160275-robot project\glm.h
+	<GL/glut.h>
+
+1496643576 source:c:\users\user\desktop\04160275-robot project\main.cpp
+	<string.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+	<stdio.h>
+
+924333900 source:c:\users\ppll1_000\downloads\04160275-robot project\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924333900 c:\users\ppll1_000\downloads\04160275-robot project\glm.h
+	<GL/glut.h>
+
+1426320928 c:\users\ppll1_000\desktop\04160275-robot project\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\ppll1_000\desktop\04160275-robot project\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1497784192 source:c:\users\ppll1_000\downloads\04160275-robot project\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+	<stdio.h>
+	<mmsystem.h>
+	"CMP3_MCI.h"
+
+924330300 source:c:\users\user\downloads\robot project\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\user\downloads\robot project\glm.h
+	<GL/glut.h>
+
+1496646696 source:c:\users\user\downloads\robot project\main.cpp
+	<string.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+	<stdio.h>
+
+924330300 source:c:\users\ppll1_000\desktop\robot project\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\ppll1_000\desktop\robot project\glm.h
+	<GL/glut.h>
+
+1497769904 source:c:\users\ppll1_000\desktop\robot project\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+	<stdio.h>
+	<mmsystem.h>
+	"CMP3_MCI.h"
+
+1270465932 c:\opencv2.1\include\opencv\highgui.h
+	"cxcore.h"
+	<windows.h>
+	<chdl.h>
+	"highgui.hpp"
+
+1270465932 c:\opencv2.1\include\opencv\cxcore.h
+	"ipl.h"
+	"ipl/ipl.h"
+	"cxtypes.h"
+	"cxerror.h"
+	"cvver.h"
+	"cxcore.hpp"
+
+1270471958 c:\opencv2.1\include\opencv\cxtypes.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1270465932 c:\opencv2.1\include\opencv\cxerror.h
+
+1270465932 c:\opencv2.1\include\opencv\cvver.h
+
+1270465932 c:\opencv2.1\include\opencv\cxcore.hpp
+	"cxmisc.h"
+	<algorithm>
+	<cmath>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	"cxoperations.hpp"
+	"cxmat.hpp"
+	"cxflann.h"
+
+1270465934 c:\opencv2.1\include\opencv\cxmisc.h
+	<limits.h>
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+
+1270465934 c:\opencv2.1\include\opencv\cxoperations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	"windows.h"
+
+1270465932 c:\opencv2.1\include\opencv\cxmat.hpp
+	<limits.h>
+
+1270465930 c:\opencv2.1\include\opencv\cxflann.h
+
+1270465934 c:\opencv2.1\include\opencv\highgui.hpp
+
+1270465930 c:\opencv2.1\include\opencv\cv.h
+	<chdl.h>
+	"cxcore.h"
+	"cvtypes.h"
+	"cv.hpp"
+	"cvcompat.h"
+
+1270465930 c:\opencv2.1\include\opencv\cvtypes.h
+	<assert.h>
+	<stdlib.h>
+
+1270476256 c:\opencv2.1\include\opencv\cv.hpp
+
+1270465930 c:\opencv2.1\include\opencv\cvcompat.h
+	<string.h>
+
+1497768841 c:\users\ppll1_000\desktop\robot project\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
+1497772441 c:\users\ppll1_000\downloads\04160275-robot project\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
